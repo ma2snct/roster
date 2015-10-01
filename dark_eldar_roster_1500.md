@@ -7,18 +7,14 @@
 
 * Lelith hesperax 150
 
-* Wyches 175
+* Wyches 160
   - 10 models 100
-  - hekatrix 10
-  - haywaire grenade 5
   - Raider 60
-  + dark lance 5
+    + dark lance 5
 
 * Kabalite Trueborn 95
   - 5 models 55
   - 2 dark lance 40
-  - venom 65
-    + splinter cannon 10
 
 * Ravager 125
   - 3 dark lance 15
@@ -35,11 +31,10 @@
   - Solarite 10
   - blast pistol 15
 
-* Archon 145
-  - blaster 15
+* Archon 130
   - shadow field 40
   - huskblade 25
-  - haywaire grenade 5
+  - haywire grenade 5
 
 * Incubi 145
   - 4 models 80
