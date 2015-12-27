@@ -1,4 +1,4 @@
-# dark eldar roster 1500pts
+# dark eldar roster 1200pts
 
 * Archon 165
   - 1 model 60
