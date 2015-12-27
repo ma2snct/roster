@@ -1,6 +1,6 @@
 # dark eldar roster 1500pts
 
-* Archon 190
+* Archon 165
   - 1 model 60
   - shadow field 40
   - huskblade 25
@@ -9,24 +9,19 @@
   
 * Lelith Hesperax 150
 
-* Wyches 175
+* Wyches 165
   - 9 models 90
-  - hekatrix 10
   - Raider 55
     + dark lance 5
     + night shields 15
     
-* Wyches 175
+* Wyches 165
   - 9 models 90
-  - hekatrix 10
   - Raider 55
     + dark lance 5
     + night shields 15
 
-* Ravager 140
-  - 1 model 110
-  - 3 dark lance 15
-  - night shields 15
+
 
 * Ravager 140
   - 1 model 110
